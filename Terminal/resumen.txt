@@ -1,0 +1,15 @@
+pwd
+Utiliza el comando pwd para encontrar la ruta de tu directorio de trabajo actual
+
+cd
+Para navegar por los archivos y directorios de Linux, usa el comando cd
+
+ls
+El comando ls se usa para ver el contenido de un directorio.
+
+cp
+Utiliza el comando cp para copiar archivos o directorios y su contenido.
+
+mv
+El uso principal del comando mv es mover archivos, aunque también se puede usar 
+para cambiar el nombre de los archivos. 

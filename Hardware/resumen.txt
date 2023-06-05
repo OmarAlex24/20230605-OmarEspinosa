@@ -1,0 +1,3 @@
+-Placa madre
+-Procesador
+-Memoria Ram
