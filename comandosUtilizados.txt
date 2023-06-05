@@ -1,0 +1,28 @@
+ 1670* mkdir 20230605-OmarEspinosa
+ 1671* cd 20230605-OmarEspinosa/
+ 1672* git init
+ 1673* git remote add origin https://github.com/OmarAlex24/20230605-OmarEspinosa.git
+ 1674* touch comandos.txt main.js index.html
+ 1675* git add .
+ 1676* git commit -m "commit 01 de OmarEspinosa"
+ 1677* git push origin main
+ 1678* git branch feature01
+ 1679* git switch feature01 
+ 1680* mkdir Terminal Hardware
+ 1681* touch Terminal/resumen.txt Hardware/resumen.txt
+ 1682* git add .
+ 1683* git commit -m "commit 02 de OmarEspinosa"
+ 1684* git push origin feature01 
+ 1685* git branch feature02
+ 1686* git switch feature02
+ 1687* nano Terminal/resumen.txt
+ 1688* nano Hardware/resumen.txt 
+ 1689* git push origin feature02
+ 1690* git add .
+ 1691* git commit -m "commit 03 de OmarEspinosa"
+ 1692* git push origin feature02
+ 1693* git switch main 
+ 1694* ls
+ 1695* mv comandos.txt comandosUtilizados.txt
+ 1696  history | tail -n 25 > comandosUtilizados.txt 
+ 1697  nano comandosUtilizados.txt 
